@@ -7,4 +7,4 @@
 - AWS ECR Login & Pushing Docker image
 - Cloning Helm chart
 - Editing image id inside the chart
-- Committing and pushing the chart into github repo `https://github.com/ShahadSha/BlueGreen-with-ArgoRollouts-and-Istio`
+- Committing and pushing the chart into github [Repo](https://github.com/ShahadSha/BlueGreen-with-ArgoRollouts-and-Istio)
